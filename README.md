@@ -1,25 +1,19 @@
-# html_basic
+# alu-web-de
 
-This project is about learning the basics of HTML.
+This repository contains all my web development projects and exercises from ALU’s Web Development track.
 
-It includes:
+## What’s Inside
 
-- Creating a valid HTML page structure
-- Using headings, paragraphs, images, and links
-- Building navigation between pages
-- Embedding tweets
-- Organizing content with `<header>`, `<main>`, `<article>`, `<aside>`, and `<footer>`
+- `html_basic/` — Basics of HTML like structure, tags, links, and embedding
+- `css_basic/` — (To be added) Styling HTML using CSS
+- `html_advanced/` — (To be added) More complex layouts and semantic HTML
 
-## Files
+## Goals
 
-- `base_index.html`: A basic empty HTML template
-- `index.html`: Contains text, headings, a clickable image, and a link to `tweets.html`
-- `tweets.html`: Shows an embedded tweet and a link back to `index.html`
-
-Later updates include a more organized structure using semantic HTML tags.
+- Learn how to structure web pages using HTML
+- Practice building user-friendly layouts
+- Prepare for real-world web development with clean code
 
 ## Notes
 
-- No CSS or JavaScript used
-- The HTML should be valid (checked with W3C Validator)
-- The footer includes a link with the author’s name
+All projects are written from scratch and focus on foundational web development skills. No frameworks or libraries are used unless specified.
